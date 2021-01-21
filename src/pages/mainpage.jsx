@@ -44,7 +44,7 @@ export default function mainpage() {
           </Button>
         </div>
       </div>
-      <div
+      {/* <div
         className="background"
         style={{
           backgroundImage: `url(${Main})`,
@@ -52,7 +52,7 @@ export default function mainpage() {
           height: "100vh",
           backgroundSize: "100% 100%",
         }}
-      />
+      /> */}
       <Location />
     </>
   );
